@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full Stack Development.<br>🌱 I'm currently learning Data Structures and Algorithms.<br>📈Engaged in trading and investment in share market.<br>An avid learner , Exploring the world of coding and web development:)
+🔭 I'm currently working on Full Stack Development.<br>🌱 I'm currently learning Data Analytics and Mern.<br>📈Engaged in trading and investment in share market.<br>An avid learner , Exploring the world of coding and web development:)
 
 
 ## 🌐 Socials:
